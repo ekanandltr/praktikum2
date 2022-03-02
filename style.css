@@ -3,6 +3,10 @@
 	margin-top: 0;
 	font-family: sans-serif;
 }
+BODY{
+	background-image: url("w4.jpg"); background-repeat: 
+	no-repeat; background-size: cover;
+}
 a{
 	color: inherit;
 	text-decoration: none;
